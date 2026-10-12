@@ -1,0 +1,6 @@
+feature,importance
+categorical__education_level_Master,0.10009661
+categorical__employment_type_Contract,0.097154066
+categorical__employment_type_Self-employed,0.09045927
+numeric__age,0.08807311
+numeric__loan_amount,0.08658909

@@ -1,0 +1,5 @@
+Model,Validation score
+RandomForestClassifier,0.7944444444444444
+LogisticRegression,0.7777777777777778
+DecisionTreeClassifier,0.7611111111111111
+XGBClassifier,0.7611111111111111

@@ -1,0 +1,4 @@
+age,income,loan_amount,credit_score,loan_term_months,employment_type,education_level,application_date,predicted_default,default_probability
+29,72000,150000,710,36,Salaried,Bachelor,2026-01-12,1,0.6575328288813945
+46,48000,320000,590,60,Self-employed,High School,2026-02-08,1,0.8990927659047759
+35,110000,200000,760,24,Salaried,Master,2026-03-18,1,0.5795261064555214

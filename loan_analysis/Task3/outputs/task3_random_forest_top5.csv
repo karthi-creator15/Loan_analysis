@@ -1,0 +1,6 @@
+feature,importance
+numeric__credit_score,0.1646265610436884
+numeric__debt_ratio,0.16410479671994102
+numeric__loan_amount,0.15305174795809887
+numeric__savings,0.14323959705453987
+numeric__income,0.1426956870387339

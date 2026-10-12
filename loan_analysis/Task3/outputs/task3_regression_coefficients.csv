@@ -1,0 +1,16 @@
+model,feature,coefficient
+LinearRegression,income,2964.5844120898128
+LinearRegression,credit_score,5741.747090474223
+LinearRegression,age,-3498.029442100797
+LinearRegression,debt_ratio,304.6203325464867
+LinearRegression,savings,319.92107949990935
+Ridge,income,2960.5003696990148
+Ridge,credit_score,5733.4613971273075
+Ridge,age,-3492.940655739698
+Ridge,debt_ratio,304.15558429875426
+Ridge,savings,319.4631939535975
+Lasso,income,1973.1465663978054
+Lasso,credit_score,4678.473972377672
+Lasso,age,-2485.1517254676482
+Lasso,debt_ratio,0.0
+Lasso,savings,0.0
