@@ -1,6 +1,4 @@
-# Week 2 Machine Learning Assessment
-
-Four separate Python projects based on the Week 2 Machine Learning Assessment PDF.
+Machine Learning
 
 ## Folders
 - `Task1/` — Splits, overfitting, cross-validation, data leakage, problem types and workflow.
